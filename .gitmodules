@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AdvDif4"]
 	path = AdvDif4
 	url = https://github.com/cran/AdvDif4
-	shallow = true
-	registered = true
 [submodule "gripp"]
 	path = gripp
 	url = https://github.com/cran/gripp
-	shallow = true
-	registered = true
